@@ -1,0 +1,111 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@ionic-native/local-notifications@^4.17.0",
+        "scope": "@ionic-native",
+        "escapedName": "@ionic-native%2flocal-notifications",
+        "name": "@ionic-native/local-notifications",
+        "rawSpec": "^4.17.0",
+        "spec": ">=4.17.0 <5.0.0",
+        "type": "range"
+      },
+      "/Users/mse/workspace/Dynastrace-InAuth removel/fhome-gui-mobile-app"
+    ]
+  ],
+  "_from": "@ionic-native/local-notifications@>=4.17.0 <5.0.0",
+  "_hasShrinkwrap": false,
+  "_id": "@ionic-native/local-notifications@4.18.0",
+  "_inCache": true,
+  "_location": "/@ionic-native/local-notifications",
+  "_nodeVersion": "8.14.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/local-notifications_4.18.0_1543678765112_0.07698539151646688"
+  },
+  "_npmUser": {
+    "name": "danielsogl",
+    "email": "mytechde@outlook.com"
+  },
+  "_npmVersion": "6.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@ionic-native/local-notifications@^4.17.0",
+    "scope": "@ionic-native",
+    "escapedName": "@ionic-native%2flocal-notifications",
+    "name": "@ionic-native/local-notifications",
+    "rawSpec": "^4.17.0",
+    "spec": ">=4.17.0 <5.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native/local-notifications/-/local-notifications-4.18.0.tgz",
+  "_shasum": "262382ab42f1c82f234f55f8120e0cc8d788c87b",
+  "_shrinkwrap": null,
+  "_spec": "@ionic-native/local-notifications@^4.17.0",
+  "_where": "/Users/mse/workspace/Dynastrace-InAuth removel/fhome-gui-mobile-app",
+  "author": {
+    "name": "ionic"
+  },
+  "bugs": {
+    "url": "https://github.com/ionic-team/ionic-native/issues"
+  },
+  "dependencies": {},
+  "description": "Ionic Native - Native plugins for ionic apps",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-w77Uh6th6kIuWelRYb1d27z+BIVOK63XxfK2W+W9H5wI0Su1nB+CXa190ORUb+thbG82Nn2Ek4gfZbHulQnrRQ==",
+    "shasum": "262382ab42f1c82f234f55f8120e0cc8d788c87b",
+    "tarball": "https://registry.npmjs.org/@ionic-native/local-notifications/-/local-notifications-4.18.0.tgz",
+    "fileCount": 8,
+    "unpackedSize": 85884,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcAqstCRA9TVsSAnZWagAAJIkP/1KfB+9NwfoRHe0aLh+l\nyMxwchpSUTyBR2SIDuPjud2vW6Nz8AtqEirNWS5uSAmKYP3iZh6sGPpDk8R6\nsNJnjOM1ORH+QfGUDAQvHSAjLvC3S6yGR/raLtzfQ3vgdfA9We2ZPfOdtDyI\nFYgf5qMo0xKFUc59ZFAc0LueXPWHZrPUdm92DykgoVKRxGAamZIbwDJvfOTj\nbbqsP3QanXkvw2FmuNw7TcL2wUp+ecGhp/nNbAmR8HxISLw6nNCEFZMJR0HG\n0nby+ow4DvqogpiWWW6tH4XYbqE6QHCwKZ6f9ZyS99GSJQOZ5VouoNSmMLNm\n5oKcgKiia3zH119qQAIo/Zg4FLUTBY9vyMv33qfe0bwPCxy9oAFVp2RQ9k2I\nGu76hI7thWP7QR29dTXRSh8XJbgALKRwiSWQWLcwdBTlbNfomteeUFqDVrOa\nBr8cGsAL/fhAUC4GXERlCjFE1i75Dny7/irSjSR6yCJhqOjQdWshvqwE0J7Q\nbN5/5aUzHf39L5zFk2wQXcKbYspw6YRwFLP0l8ovEdC6Dzv0fH5uWl2SflIa\nhLeF4/9/A201Bize+PmZQw1QxyYQwLbwsIjQ7LvFsxbifWlSen7yrBeyW99t\npUMTSWEO7jsiu91t7eXdEbkdpQnRBToAud2K7l32FKGSrb24FpP2HNM8f/cf\nByeS\r\n=xgP/\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "homepage": "https://github.com/ionic-team/ionic-native#readme",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "danielsogl",
+      "email": "mytechde@outlook.com"
+    },
+    {
+      "name": "ihadeed",
+      "email": "ibby@zyra.ca"
+    },
+    {
+      "name": "ionicjs",
+      "email": "hi@ionicframework.com"
+    },
+    {
+      "name": "maxlynch",
+      "email": "max@ionic.io"
+    },
+    {
+      "name": "mhartington",
+      "email": "mikehartington@gmail.com"
+    },
+    {
+      "name": "wf9a5m75",
+      "email": "wf9a5m75@gmail.com"
+    }
+  ],
+  "module": "index.js",
+  "name": "@ionic-native/local-notifications",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "@ionic-native/core": "^4.11.0",
+    "@angular/core": "*",
+    "rxjs": "^5.5.11"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionic-team/ionic-native.git"
+  },
+  "typings": "index.d.ts",
+  "version": "4.18.0"
+}
